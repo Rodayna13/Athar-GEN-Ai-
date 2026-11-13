@@ -1,0 +1,19 @@
+Lab Assignment 1: Working with a Public REST API Using Python
+Objective:
+Develop a short Python program that interacts with a public REST API, retrieves data, processes the JSON response, and displays the results in a formatted summary.
+Requirements:
+API Integration: Connect to a public REST API using Python.
+JSON Parsing: Retrieve and parse the API response in JSON format.
+Class Implementation: Create a small Python class to store and organize the retrieved data.
+Formatted Output: Display a clear and well-organized summary of the retrieved information.
+Virtual Environment: Set up and run the project inside a Python virtual environment (venv).
+Environment Variables: Store the API key in a .env file and load it securely using environment variables.
+Expected Deliverable:
+A functional Python program that successfully retrieves data from a public REST API, parses the JSON response, stores the relevant information in a custom class, and prints a formatted summary.
+The project should include:
+Python source code (.py).
+A .env file for the API key.
+A requirements.txt file listing the required dependencies.
+A properly configured virtual environment.
+Important: The .env file should not be uploaded to public repositories or shared, to protect the API key.
+
